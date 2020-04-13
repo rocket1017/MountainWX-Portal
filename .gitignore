@@ -1,0 +1,8 @@
+.bashrc
+.bash_profile
+*.log
+*.mod
+.*
+*~
+*.exe
+\#*
